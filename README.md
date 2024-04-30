@@ -18,3 +18,10 @@ Define the Game Board, Display Game Board using turtle, Allow players to input t
 ## Sketch 
 
 ![Tic Tac Toe Sketch](Image/Comp%20sci%20(1).jpg)
+
+## What is needed to run?
+
+To run this code you need to have access to PYCharm 
+Along with PYCharm you need to have the latest version of Pygame installed. 
+
+## Link to Game:
